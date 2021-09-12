@@ -2,6 +2,7 @@
 ## Desafio proposto
 - Criar um formulário (em Java) em que seja possível cadastrar, editar e deletar informações de uma pessoa.
 - Apresentar as pessoas cadastradas em uma tabela
+- Possibilitar a seleção (com clique), edição e remoção de um cadastro na tabela
 - Possibilitar a busca, seleção, edição e remoção de um cadastro pelo CPF
 - Colocar máscaras em inputs
 
