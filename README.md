@@ -11,6 +11,7 @@ Um arquivo executável JAVA em formato .jar está disponível no diretório `./d
 
 ## Mais informações
 Este é um trabalho referente a nota feito por mim em 2014 durante o curso Técnico em Informática no IFMA Campus Coelho Neto
+
 Desafio propostro pelo professor Isael Moreira
 
 ⚡ @marcoant08
